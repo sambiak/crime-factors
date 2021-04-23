@@ -14,13 +14,13 @@ The main dataset is the [crime dataset](https://www.data.gouv.fr/fr/datasets/chi
 
 
 
-This dataset includes data on crime back to 1996 for most departments however, for overseas France some years are missing. This website will focus on mainland France as overseas France has unique circumstances which will biais te data. Linear models will use crime data from 2017 as most of the other indicators come from the years 2016-2à17. Data is mensual but has been grouped by year by us for easier analysis. 
+This dataset includes data on crime back to 1996 for most departments however, for overseas France some years are missing. This website will focus on mainland France as overseas France has unique circumstances which will biais te data. Linear models will use crime data from 2017 as most of the other indicators come from the years 2016-2017. Data is mensual but has been grouped by year by us for easier analysis. 
 
 
 The data is in the form of an excel spreadsheet with one sheet per departement, this form of data is being transformed to a more usable csv format.
 
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Crime 2020](Data/france_crime1996.png "Crime in 1996")
 
 
 ### Population
